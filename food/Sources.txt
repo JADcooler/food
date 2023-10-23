@@ -2,6 +2,57 @@ B1 (Thiamine) 1.2mg
 Toasted wheat germ 40g = 0.4mg
 Whole wheat bread 2 sl = 0.3mg
 chia seeds 28g `       = 0.1mg
+Rolled oats 100g       = 0.5mg
                          =====
-                         0.9mg
+                         1.4mg
+
+B2 (Riboflavin) 1.2mg
+Toasted wheat germ 40g = 0.3mg
+Whole wheat bread 2 sl = 0.1mg
+chia seeds 28g `       = 0.0mg
+Rolled oats 100g       = 0.2mg
+                         =====
+                         0.6mg
+two boiled eggs        = 0.5mg
+almonds 28g            = 0.3mg 
+                         =====
+                         1.4mg
+
+B3 (Niacin) 16mg
+
+Whole wheat bread 2 sl = 2.5mg
+Toasted wheat germ 40g = 2.2mg
+chia seeds 28g `       = 1.7mg
+Rolled oats 100g       = 1.1mg
+almonds 28g            = 1.0mg
+Boiled eggs            = 0.1mg
+                         =====
+                         8.7mg
+peanut butter 66g      = 8.7mg
+                         =====
+                         17.4mg
+
+B5 (Pantothenic Acid) 5mg
+
+Whole wheat bread 2 sl = 0.3mg
+Toasted wheat germ 40g = 0.6mg
+chia seeds 28g `       = 0.2mg
+Rolled oats 100g       = 1.1mg
+almonds 28g            = 0.1mg
+Boiled eggs            = 1.2mg
+peanut butter 66g      = 0.8mg
+                         =====
+                         4.3mg
+egg + 1                = 0.6mg  
+                         =====
+                         4.9mg
+
+B12 (Cobalamine) 2.4ug
+
+boiled eggs            = 1.5ug
+wheat germ toasted 40g = 0.1ug
+                         =====
+                         1.6ug
+                         
+
 
